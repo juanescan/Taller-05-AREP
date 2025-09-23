@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:8080/api/properties'; 
+const apiUrl = '/api/properties'; 
 
 async function listProperties(){
   const res = await fetch(apiUrl);

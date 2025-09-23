@@ -18,9 +18,15 @@ Está desarrollado con Spring Boot en el backend, MySQL como base de datos y una
 
 ### Videos:
 DB:
+
 https://youtu.be/IKl8q8Ex4_U
 
-Back
+Back:
+
+https://youtu.be/_YPnWBErqsY
+
+https://youtu.be/LpGFZ509rng
+
 
 
 ### 🧩 Arquitectura del Sistema

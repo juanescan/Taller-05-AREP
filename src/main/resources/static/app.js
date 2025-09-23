@@ -31,7 +31,6 @@ document.getElementById('createForm').addEventListener('submit', async (e) => {
     description: fd.get('description')
   };
 
-  // 🔹 Si estamos editando, usamos PUT, si no POST
   const method = editingId ? 'PUT' : 'POST';
   const url = editingId ? `${apiUrl}/${editingId}` : apiUrl;
 

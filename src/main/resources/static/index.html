@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Propiedades</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Gestor de Propiedades</h1>
+
+  <form id="createForm">
+    <input name="address" placeholder="Dirección" required />
+    <input name="price" type="number" step="0.01" placeholder="Precio" required />
+    <input name="size" type="number" step="0.01" placeholder="Tamaño" required />
+    <textarea name="description" placeholder="Descripción"></textarea>
+    <button type="submit">Crear</button>
+  </form>
+
+  <div id="messages"></div>
+  <ul id="propertiesList"></ul>
+
+  <script src="app.js"></script>
+</body>
+</html>

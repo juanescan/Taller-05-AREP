@@ -17,8 +17,10 @@ Eliminar registros de propiedades.
 Está desarrollado con Spring Boot en el backend, MySQL como base de datos y una interfaz sencilla en HTML + JavaScript. El despliegue se realiza en AWS, utilizando instancias EC2 y contenedores Docker.
 
 ### Videos:
+DB:
+https://youtu.be/IKl8q8Ex4_U
 
-(https://youtu.be/IKl8q8Ex4_U) 
+Back
 
 
 ### 🧩 Arquitectura del Sistema

@@ -16,6 +16,11 @@ Eliminar registros de propiedades.
 
 Está desarrollado con Spring Boot en el backend, MySQL como base de datos y una interfaz sencilla en HTML + JavaScript. El despliegue se realiza en AWS, utilizando instancias EC2 y contenedores Docker.
 
+### Videos:
+
+(https://youtu.be/IKl8q8Ex4_U) 
+
+
 ### 🧩 Arquitectura del Sistema
 
 La aplicación se compone de tres capas principales:
@@ -143,6 +148,12 @@ README.md
 - Permite el puerto 3306 para MySQL (solo desde el backend).
 
 - Permite el puerto 8080 para el backend.
+
+### APP
+
+![app](/images/1.png)
+
+![app](/images/2.png)
   
 ### 🛠️ Tecnologías Utilizadas
 
@@ -160,4 +171,4 @@ README.md
 
 ### 👤 Autor
 
-- Juan Esteban Cancelado Sanchez - *AREP* *Taller 1* - [juanescan](https://github.com/juanescan)
+- Juan Esteban Cancelado Sanchez - *AREP* *Taller 5* - [juanescan](https://github.com/juanescan)
